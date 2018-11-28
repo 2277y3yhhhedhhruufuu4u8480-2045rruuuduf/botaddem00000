@@ -1,4 +1,4 @@
-token=BOT_TOKEN
+token=NTE3MzYzMjAwNjkwNDg3MzE2.DuBHog.XJbcsDO3d5-02Siyo81Ey8Nx6-w
 owner= 481772024637947906 
 prefix= x
 game= Bot xIBrHoOm_
