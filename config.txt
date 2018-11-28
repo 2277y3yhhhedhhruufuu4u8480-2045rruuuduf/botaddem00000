@@ -1,6 +1,6 @@
-token=
-owner= 311603535466856458 
-prefix= A
-game= Savage⁸⁹
+token=process.env.BOT_TOKEN
+owner= 481772024637947906 
+prefix= x
+game= Bot xIBrHoOm_
 stayinchannel=true 
 songinstatus=false 
