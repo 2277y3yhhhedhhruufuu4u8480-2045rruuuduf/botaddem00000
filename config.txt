@@ -1,4 +1,4 @@
-token=process.env.BOT_TOKEN
+token=BOT_TOKEN
 owner= 481772024637947906 
 prefix= x
 game= Bot xIBrHoOm_
